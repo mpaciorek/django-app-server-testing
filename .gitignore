@@ -2,3 +2,4 @@
 *.pyc
 venv
 \.env
+django_app_server/django-uwsgi.log

@@ -1,6 +1,6 @@
-bind = "127.0.0.1:8000"
-workers = 4
+bind = "127.0.0.1:8100"
+workers = 8
 preload_app = True
-worker_class = "egg:meinheld#gunicorn_worker"
+worker_class = "gevent"
 threads = 8
 

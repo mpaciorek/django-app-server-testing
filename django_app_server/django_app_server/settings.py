@@ -25,7 +25,7 @@ SECRET_KEY = '1@#bd)s$gp_x6n4eu-^$5bgh0b@w1u!)rczxl52!t0i5+3+)g5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['localhost', 'monitoring.undefinedcoders.com']
 
 
 # Application definition
